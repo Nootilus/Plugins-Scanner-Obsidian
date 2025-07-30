@@ -5,7 +5,7 @@
 	"minAppVersion": "0.0.0",
 	"description": "Check which plugins is installed inside a vault and create a note with the list.",
 	"author": "Vincent Corlaix",
-	"authorUrl": "https://github.com/Nootilus/Plugins-Scanner-Obsidian",
+	"authorUrl": "http://littlelink.nootilus.com/",
 	"fundingUrl": "",
 	"isDesktopOnly": false
 }
