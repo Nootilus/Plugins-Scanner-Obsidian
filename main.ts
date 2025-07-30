@@ -4,7 +4,7 @@ export default class ListActivePluginsPlugin extends Plugin {
   async onload() {
     this.addCommand({
       id: "list-active-plugins",
-      name: "Obsidian plugins scanner",
+      name: "Plugins scanner: scan and create list",
       callback: () => this.createPluginListNote()
     });
   }
